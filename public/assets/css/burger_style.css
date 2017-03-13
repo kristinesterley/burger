@@ -1,0 +1,14 @@
+body {
+	background-color: orange;
+}
+
+#left-side, #center, #right-side {
+	width: 33%;
+	float: left;
+}
+
+
+#picture {
+	width: 200px;
+	height: 200px;
+}
